@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CollectionPreview from "../../../components/collection-preview/CollectionPreview";
+import CollectionPreview from "../../components/collection-preview/CollectionPreview";
 import { SHOP_DATA } from "./shopData";
 
 class ShopPage extends Component {
